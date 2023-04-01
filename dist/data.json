@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Raju",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3VSqgs3vP0XT_7SX-YYHzRtKjly-AQWdCw&usqp=CAU",
+        "time": 5,
+        "postDate": "Mar 14 (4 Days ago)",
+        "title": "How to get your first job as a self-taught programmer",
+        "poster": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 2,
+        "name": "Mrs. Setara",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5bd_B9k-YNaN8vsx7nN_jf81PGIOYgtjHA&usqp=CAU",
+        "time": 9,
+        "postDate": "Mar 14 (4 Days ago)",
+        "title": "How to get your first job as a self-taught programmer",
+        "poster": "https://images.unsplash.com/photo-1617529497471-9218633199c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHByb2dyYW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      }
+    ]
